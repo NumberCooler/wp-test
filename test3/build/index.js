@@ -1,0 +1,1 @@
+!function(){"use strict"; console.log("OK BLOCK TYPE"); var e=window.wp.element;(0,window.wp.blocks.registerBlockType)("myguten/test-block",{title:"Basic Example",icon:"smiley",category:"design",edit:()=>(0,e.createElement)("div",null,"Hola, mundo!"),save:()=>(0,e.createElement)("div",null,"Hola, mundo!")})}();
